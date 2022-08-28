@@ -1,0 +1,19 @@
+.container {
+    min-width: 75%;
+    padding: 0;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+}
+
+#main-sidebar {
+    display: none;
+}
+
+
+#footer {
+    margin: 12rem 0 0 0;
+    padding: 12rem 32rem;
+    display: flex;
+    justify-content: center;
+}
